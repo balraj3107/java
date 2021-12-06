@@ -3,7 +3,11 @@ package bunch;
 public class Start {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		int a, b;
+		a = 50;
+		b = 60;
+		int c = a + b;
 
 	}
 
