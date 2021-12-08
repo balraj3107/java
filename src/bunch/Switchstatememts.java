@@ -8,11 +8,11 @@ public class Switchstatememts {
 		Scanner sc = new Scanner(System.in);
 		int num = sc.nextInt();
 		switch (num) {
-		case 23:
+		case 54:
 			System.out.println("hi");
 			break;
-		
+// ask user for 4 options +-/* HW
 		}
-		
+
 	}
 }
